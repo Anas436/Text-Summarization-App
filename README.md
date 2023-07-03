@@ -14,7 +14,7 @@ Text Summarization App built using Langchain and Streamlit
 
 ## Demo App
 
-
+![](https://github.com/Anas436/Text-Summarization-App/blob/main/text.gif)
 
 ## Get an OpenAI API key
 
