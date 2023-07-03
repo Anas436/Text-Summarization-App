@@ -1,0 +1,10 @@
+
+# Required Dependencies
+
+streamlit
+langchain
+openai
+tiktoken
+
+
+
